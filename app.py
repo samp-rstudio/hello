@@ -4,5 +4,5 @@ st.write("""
 # My first app
 Hello *everybody!*
 
-this is new
+Thanks for using Posit Connect Cloud!
 """)
