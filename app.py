@@ -6,3 +6,6 @@ Hello *everybody!*
 
 Thanks for using Posit Connect Cloud!
 """)
+
+
+st.write(st.context.headers)
